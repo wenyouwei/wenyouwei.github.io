@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to Youwei Wen (文有为) Pages
+Address:  School of Mathematics and Statistics, Hunan Normal University, Changsha, Hunan 410081, P. R. China. 
+Email:  wenyouwei A@T gmail D.O.Tcom \\
+Phone:  0086-13657405525
+ 
+## Educational Background (教育背景)
+9/2003--8/2006, Ph.d, Department of Mathematics.  The  University of Hong Kong, Hong Kong, China.
+9/1998--7/2001 & Master, Faculty of Computer Science, Guangdong University of Technology, Guangzhou, China.
 
-You can use the [editor on GitHub](https://github.com/wenyouwei/wenyouwei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Fields of Interest (研究方向)
+Scientific Computing, Numerical Linear Algebra, Signal and Image Processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Working Experience (工作经历)
+
 
 ### Markdown
 
