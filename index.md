@@ -1,11 +1,14 @@
 # Welcome to Youwei Wen (文有为) Pages
 Address:  School of Mathematics and Statistics, Hunan Normal University, Changsha, Hunan 410081, P. R. China. 
-Email:  wenyouwei A@T gmail D.O.Tcom \\
+
+Email:  wenyouwei A@T gmail D.O.Tcom 
+
 Phone:  0086-13657405525
  
 ## Educational Background (教育背景)
 9/2003--8/2006, Ph.d, Department of Mathematics.  The  University of Hong Kong, Hong Kong, China.
-9/1998--7/2001 & Master, Faculty of Computer Science, Guangdong University of Technology, Guangzhou, China.
+
+9/1998--7/2001, Master, Faculty of Computer Science, Guangdong University of Technology, Guangzhou, China.
 
 ## Fields of Interest (研究方向)
 Scientific Computing, Numerical Linear Algebra, Signal and Image Processing.
