@@ -1,43 +1,24 @@
 # Welcome to Youwei Wen (文有为) Pages
-Address:  School of Mathematics and Statistics, Hunan Normal University, Changsha, Hunan 410081, P. R. China. 
+- Address:   School of Mathematics and Statistics, Hunan Normal University, Changsha, Hunan 410081, P. R. China.
+- Email:   wenyouwei A@T gmail D.O.Tcom
+- Phone: 0086-13657405525
 
-Email:  wenyouwei A@T gmail D.O.Tcom 
-
-Phone:  0086-13657405525
- 
-<table border="1" cellspacing="0" cellpadding="0">
-    <tr>
-        <th>头部一</th>
-        <th>头部二</th>
-    </tr>
-    <tr>
-        <td>第一行，第一列</td>
-        <td>第一行，第二列</td>
-    </tr>
-    <tr>
-        <td>第二行，第一列</td>
-        <td>第二行，第二列</td>
-    </tr>
-</table> 
     
 ## Educational Background (教育背景)
---|--
-9/2003--8/2006| Ph.d, Department of Mathematics.  The  University of Hong Kong, Hong Kong, China.
 
-9/1998--7/2001| Master, Faculty of Computer Science, Guangdong University of Technology, Guangzhou, China.
-
-
-姓名|技能|排行
---|:--:|--:
-刘备|哭|大哥
-关羽|打|二哥
-张飞|骂|三弟
+- 9/2003--8/2006, Ph.d, Department of Mathematics.  The  University of Hong Kong, Hong Kong, China.</td>
+- 9/1998--7/2001, Master, Faculty of Computer Science, Guangdong University of Technology, Guangzhou, China.</td>
 
 ## Fields of Interest (研究方向)
 Scientific Computing, Numerical Linear Algebra, Signal and Image Processing.
 
 ## Working Experience (工作经历)
 
+- 1/2008-- 3/2010, Visiting Research Scientist, CWAIP, Temasek Laboratories, National University of Singapore, Singapore.
+- 1/2007-- 7/2010, Associate Professor, Department of Mathematics, South China Agricultural University, China.
+- 8/2010-- 8/2011, Postdoctor, Department of Mathematics, The Chinese University of Hong Kong, China.
+- 8/2011--7/2016,  Professor, Department of Mathematics, Kunming University of Science and Technology, Yunnan, China.
+- 7/2016--present, Professor, School of Mathematics and Statistics, Hunan Normal University, Hunan, China
 
 ### Markdown
 
