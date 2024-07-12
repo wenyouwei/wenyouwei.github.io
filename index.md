@@ -21,7 +21,8 @@ Scientific Computing, Numerical Linear Algebra, Signal and Image Processing.
 - 7/2016--present, Professor, School of Mathematics and Statistics, Hunan Normal University, Hunan, China
 
 ## Awards (奖项)
-- 2019, 基于正则方法的图像去噪与恢复理论及方法, 湖南省自然科学奖二等奖，第一完成人. 
+- 2019, 基于正则方法的图像去噪与恢复理论及方法, 湖南省自然科学奖二等奖，第一完成人.
+- 2022, 图像乘性噪声去除问题的理论与方法, 甘肃省自然科学奖二等奖(第二完成人).  
 
 ## Grants (研究项目)
 - 1/2019-12/2022, 图像恢复与重建中的参数自动选取理论及方法 (Theories and Numerical Methods on Automated Parameter Selection in Image Restoration and Reconstruction), NSFC Grant 11871210,  Principal Investigator.
@@ -31,19 +32,19 @@ Scientific Computing, Numerical Linear Algebra, Signal and Image Processing.
 
 
 ## Publications
-1. H. Pan,  **Y. Wen**, Y. Huang.  $L_0$ gradient regularization and Scale space representation model for Cartoon and Texture Decomposition.  IEEE Transactions on Image Processing, Vol.33, pp. 4016--4028, 2024.
-2. K. Li, H. Li, R. Chan and **Y. Wen**. Selecting Regularization Parameters for Nuclear Norm Type Minimization Problems. SIAM Journal on Scientific Computing, Vol.44(4), A2204–A2225, 2022. (共同一作)
-3. H. Pan, J. Lu, **Y. Wen**, C. Xu, and T. Zeng. Orientation Estimation of Cryo-EM Images using Projected Gradient Descent Method. Inverse Problems, Vol. 39(4),No.045002, 2023.
-4. X. Xiao, **Y. Wen**, R. Chan and T. Zeng. Image segmentation using Bayesian inference for convex variant Mumford-Shah variational model. SIAM Journal on Imaging Sciences. Vol. 17(1): 248–272, 2024.
+1. H. Pan,  **Y. Wen* **, Y. Huang.  $L_0$ gradient regularization and Scale space representation model for Cartoon and Texture Decomposition.  IEEE Transactions on Image Processing, Vol.33, pp. 4016--4028, 2024. (共同一作)
+2. K. Li, H. Li, R. Chan and **Y. Wen* **. Selecting Regularization Parameters for Nuclear Norm Type Minimization Problems. SIAM Journal on Scientific Computing, Vol.44(4), A2204–A2225, 2022. (共同一作)
+3. H. Pan, J. Lu, **Y. Wen* **, C. Xu, and T. Zeng. Orientation Estimation of Cryo-EM Images using Projected Gradient Descent Method. Inverse Problems, Vol. 39(4),No.045002, 2023.
+4. X. Xiao, **Y. Wen* **, R. Chan and T. Zeng. Image segmentation using Bayesian inference for convex variant Mumford-Shah variational model. SIAM Journal on Imaging Sciences. Vol. 17(1): 248–272, 2024. (共同一作)
 5. K. Deng, **Y. Wen**, K. Li and J. Zhang. Hybrid model of tensor sparse representation and total variation regularization for image denoising. Signal Processing. Vol.217, No.109352, 2024.
 6. **Y. Wen**, K. Li and H. Chen. Accelerated matrix completion algorithm using continuation strategy and randomized SVD. Journal of Computational and Applied Mathematics. Vol. 429, ID: 115215, 2023.
 7. **Y. Wen**, X. Xiao* and Y. Chen. A weighted gradient model with total variation regularization for multi-focus image fusion. Applied Mathematics Letters, Vol. 145, 108782, 2023.
 8. M. Li, Y. Huang* and Y. Wen. A Total Variation Based Method for Multivariate Time Series Segmentation. Advances in Applied Mathematics and Mechanics. Vol. 15(2), 300–321, 2023.
 9. M. Zhao, Y. Wen* and M.Ng. A Nonlocal low rank model for Poisson noise removal. Inverse Probl. Imaging , 15(3), pp519-537, 2021
-10. H. Pan, **Y. Wen** and H. Zhu. *A regularization parameter selection model for total variation based image noise removal*. Applied Mathematical Modelling. Vol.68, pp:353--367, 2019.
-11. **Y. Wen**, H. Sun and M. Ng. *A primal‐dual method for the Meyer model of cartoon and texture decomposition*. Numerical Linear Algebra with Applications. Vol.26(2), e2224, 2019.
-12. **Y. Wen** and R. Chan. *Using Generalized Cross Validation to Select Regularization Parameter for Total Variation Regularization Problems*. Inverse Problems & Imaging. Vol.12(5), pp:1103--1120, 2018.
-13. **Y. Wen**, W. Ching and M. Ng. *A Semi-Smooth Newton Method for Inverse Problem with Uniform Noise*. Journal of Scientific Computing. Vol.75(2), pp:713--732, 2018.
+10. H. Pan, **Y. Wen* ** and H. Zhu. *A regularization parameter selection model for total variation based image noise removal*. Applied Mathematical Modelling. Vol.68, pp:353--367, 2019.
+11. **Y. Wen* **, H. Sun and M. Ng. *A primal‐dual method for the Meyer model of cartoon and texture decomposition*. Numerical Linear Algebra with Applications. Vol.26(2), e2224, 2019.
+12. **Y. Wen* ** and R. Chan. *Using Generalized Cross Validation to Select Regularization Parameter for Total Variation Regularization Problems*. Inverse Problems & Imaging. Vol.12(5), pp:1103--1120, 2018.
+13. **Y. Wen* **, W. Ching and M. Ng. *A Semi-Smooth Newton Method for Inverse Problem with Uniform Noise*. Journal of Scientific Computing. Vol.75(2), pp:713--732, 2018.
 14. **Y. Wen**, R. Chan and T. Zeng. *Primal Dual Algorithms for Total Variation Based Image Restoration under Poisson Noise*. Science China Mathematics. Vol.59(1), pp:141--160, 2016.
 15. **Y. Wen**, R. Chan, *Parameter Selection for Total Variation Based Image Restoration Using Discrepancy Principle*. IEEE Trans. Image Process., Vol.21(4), pp:1770--1781, 2012.
 16. **Y. Wen**, R. Chan and A. Yip, *A Primal-Dual Method for Total Variation-Based Wavelet Domain Inpainting*. IEEE Trans. Image Process., Vol.21 (1), pp:106-114, 2012.
