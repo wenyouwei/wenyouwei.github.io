@@ -35,7 +35,7 @@ Scientific Computing, Numerical Linear Algebra, Signal and Image Processing.
 1. **Y. Wen***, Y. Xu, K. Li and L. Yang. GOAT: Guided Outlier-Aware Tensor Robust PCA with Data Augmentation, revision, *IEEE T Image Process*, revision, 2026.
 2. X. Xiao, **Y. Wen***, K. Li and M. Zhao. Intensity Inhomogeneity Image Segmentation Based on Tight Wavelet Frame and Variational Bayesian Inference, revision, *Inverse Problems*, 2026.
 3. H. Pan*, **Y. Wen**. A variational Bayesian framework with binary-continuous hierarchical priors for multiple measurement vector inverse problems, *Journal of Scientific Computing*, revision, 2026.
-4. A. Lanza, S. Morigi, Y. Wen, L. Yang*. Guided variational network for image decomposition. *arXiv:2601.04999*, *SIAM J Imaging Sci*, revision, 2026.（姓氏字母排序，图像图形领域T2期刊）
+4. A. Lanza, S. Morigi, Y. Wen, L. Yang*. Guided variational network for image decomposition. *arXiv:2601.04999*, *SIAM J Imaging Sci*, accepted, 2026.（姓氏字母排序，图像图形领域T2期刊）
 5. C. Wang, H. Zheng, R. Chan and **Y. Wen***. Variational Bayesian Inference for Tensor Robust Principal Component Analysis. *SIAM J Sci Comput*, Vol.48(4):C684--707, 2026 (唯一通讯作者，应用数学类T1期刊)
 6. L. Yang, S. Morigi, M. Ng and **Y. Wen***. Truncated Huber Penalty for Sparse Signal Recovery with Convergence Analysis. *SIAM J Sci Comput*, Vol.48(2):A929--A957. 2026 (唯一通讯作者，应用数学类T1期刊)
 7. H. Pan, **Y. Wen***, J. Lu*, C. Xu, T. Zeng, L. Shen. Orientation Estimation of Cryo-EM Images using the Riemannian Gradient Method. *J Oper Res Soc China*, 2025. (共同通讯作者，跨学科应用数学类T1期刊)
